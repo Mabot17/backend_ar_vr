@@ -1,0 +1,40 @@
+[
+  {
+    "card_id": "ARM-001",
+    "name": "Chromatic Resonance Plate",
+    "type_card": "armor",
+    "armor_type": "plate",
+    "rarity": "epic",
+    "description": "Pelindung yang memantulkan gelombang serangan seperti prisma kesadaran.",
+    "require_level": 2,
+    "trigger_type": "image",
+    "link_card_image": [
+      "https://cdn.intisatu.com/cards/arm001/img1.png"
+    ],
+    "link_card_video": [],
+    "meta": {
+      "defense": 120,
+      "resonance": "high",
+      "element": "prismatic"
+    }
+  },
+  {
+    "card_id": "ARM-002",
+    "name": "Veilbound Cloak",
+    "type_card": "armor",
+    "armor_type": "cloak",
+    "rarity": "rare",
+    "description": "Jubah kabut resonansi yang menyamarkan jejak dan melembutkan benturan.",
+    "require_level": 1,
+    "trigger_type": "image",
+    "link_card_image": [
+      "https://cdn.intisatu.com/cards/arm002/img1.png"
+    ],
+    "link_card_video": [],
+    "meta": {
+      "defense": 70,
+      "evasion": 35,
+      "element": "mist"
+    }
+  }
+]

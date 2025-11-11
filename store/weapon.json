@@ -1,0 +1,40 @@
+[
+  {
+    "card_id": "WPN-001",
+    "name": "Crescent Archer Bow",
+    "type_card": "weapon",
+    "weapon_type": "bow",
+    "rarity": "rare",
+    "description": "Busur yang mengikat cahaya malam menjadi anak panah senyap.",
+    "require_level": 2,
+    "trigger_type": "image",
+    "link_card_image": [
+      "https://cdn.intisatu.com/cards/wpn001/img1.png"
+    ],
+    "link_card_video": [],
+    "meta": {
+      "power": 65,
+      "range": "long",
+      "element": "lunar"
+    }
+  },
+  {
+    "card_id": "WPN-002",
+    "name": "Dawnsplitter Sword",
+    "type_card": "weapon",
+    "weapon_type": "sword",
+    "rarity": "epic",
+    "description": "Pedang yang membelah fajar dan meninggalkan jejak cahaya terpisah ruang.",
+    "require_level": 3,
+    "trigger_type": "image",
+    "link_card_image": [
+      "https://cdn.intisatu.com/cards/wpn002/img1.png"
+    ],
+    "link_card_video": [],
+    "meta": {
+      "power": 95,
+      "range": "melee",
+      "element": "solar"
+    }
+  }
+]

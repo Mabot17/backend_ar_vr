@@ -1,0 +1,33 @@
+[
+  {
+    "user_id": "USR-001",
+    "username": "mabot",
+    "level": 4,
+    "exp": 1280,
+    "owned_cards": [
+      "CHAR-001",
+      "WPN-002",
+      "ARM-001"
+    ],
+    "equipped": {
+      "char": "CHAR-001",
+      "weapon": "WPN-002",
+      "armor": "ARM-001"
+    }
+  },
+  {
+    "user_id": "USR-002",
+    "username": "lumi",
+    "level": 2,
+    "exp": 310,
+    "owned_cards": [
+      "CHAR-002",
+      "WPN-001"
+    ],
+    "equipped": {
+      "char": "CHAR-002",
+      "weapon": "WPN-001",
+      "armor": null
+    }
+  }
+]
